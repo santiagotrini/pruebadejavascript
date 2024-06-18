@@ -1,4 +1,4 @@
-let title = document.querySelectorAll('h1');
+let title = document.querySelector('h1');
 console.log(title);
 
 let newElement = document.createElement('h3');
@@ -17,4 +17,4 @@ setInterval(() => {
 
 newElement.classList.add('blue');
 
-title.style.color = 'blue'; // 
+title.style.color = 'black'; // 
