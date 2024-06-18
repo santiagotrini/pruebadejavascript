@@ -17,4 +17,4 @@ setInterval(() => {
 
 newElement.classList.add('blue');
 
-title.style.color = 'black'; // 
+title.style.textDecoration = 'underline'; // 
