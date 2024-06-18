@@ -2,11 +2,11 @@
 
 ## Lenguaje
 
-- Variables y constantes con `let` y `const`
-- Tipos de datos: `Number`, `String`, `Boolean`, `Object`, `Null` y `Undefined`
-- Condicionales: `if ... else`
-- Bucles `for` y `while`
-- Objetos: claves y atributos
+- Variables y constantes con `let` y `const` (1.2.4)
+- Tipos de datos: `Number`, `String`, `Boolean`, `Object`, `Null` y `Undefined` (1.2.5)
+- Condicionales: `if ... else` (1.2.10) 
+- Bucles `for` y `while` (1.2.13)
+- Objetos: claves y atributos (1.4.1)
 
 ## DOM (Document Object Model) API (Application Programming Interface)
 
@@ -17,3 +17,5 @@
 - Cambiar el texto de un elemento: `element.textContent` y `element.innerHTML` (2.1.5)
 - Modificar clases: `element.classList.add()`, `element.classList.remove()` y `element.classList.toggle()` (2.1.8) 
 - Modificar el estilo (estilos en línea) usando la propiedad `element.style` (2.1.8)
+- Eventos: click y submit (2.2.1)
+- 
