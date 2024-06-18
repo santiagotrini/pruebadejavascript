@@ -7,6 +7,7 @@
 - Condicionales: `if ... else` [(1.2.10)](https://es.javascript.info/ifelse) 
 - Comparaciones [(1.2.9)](https://es.javascript.info/comparison)
 - Bucles `for` y `while` [(1.2.13)](https://es.javascript.info/while-for)
+- Funciones [(1.2.15)](https://es.javascript.info/function-basics), [(1.2.16)](https://es.javascript.info/function-expressions) y [(1.2.17)](https://es.javascript.info/arrow-functions-basics)
 - Objetos: claves y atributos [(1.4.1)](https://es.javascript.info/object)
 - Planificación: `setInterval()` y `setTimeout()` [(1.6.8)](https://es.javascript.info/settimeout-setinterval)
 
