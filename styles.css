@@ -12,3 +12,19 @@ body {
 
 .blue { color: blue; }
 
+.board {
+  display: grid;
+  grid-template: repeat(7, 1fr) / repeat(7, 1fr);
+  width: 400px;
+  height: 400px;
+  border: 3px solid red;
+}
+
+.square {
+  border: 1px solid black;
+}
+
+.black {
+  background: black;
+}
+
