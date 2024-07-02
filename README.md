@@ -20,5 +20,5 @@
 - Cambiar el texto de un elemento: `element.textContent` y `element.innerHTML` [(2.1.5)](https://es.javascript.info/basic-dom-node-properties)
 - Modificar clases: `element.classList.add()`, `element.classList.remove()` y `element.classList.toggle()` [(2.1.8)](https://es.javascript.info/styles-and-classes) 
 - Modificar el estilo (estilos en línea) usando la propiedad `element.style` [(2.1.8)](https://es.javascript.info/styles-and-classes)
-- Eventos: click y submit, `document.addEventListener()` y handlers [(2.2.1)]()
+- Eventos: click y submit, `document.addEventListener()` y handlers [(2.2.1)](https://es.javascript.info/introduction-browser-events)
 - Formularios [(2.4.1)](https://es.javascript.info/form-elements) y [(2.4.4)](https://es.javascript.info/forms-submit)
