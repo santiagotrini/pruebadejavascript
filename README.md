@@ -10,9 +10,11 @@
 - Funciones [(1.2.15)](https://es.javascript.info/function-basics), [(1.2.16)](https://es.javascript.info/function-expressions) y [(1.2.17)](https://es.javascript.info/arrow-functions-basics)
 - Objetos: claves y atributos [(1.4.1)](https://es.javascript.info/object)
 - Arrays [(1.5.4)](https://es.javascript.info/array)
+- Callbacks [(1.11.1)](https://es.javascript.info/callbacks)
+- Promesas [(1.11.2)](https://es.javascript.info/promise-basics)
 - Planificación: `setInterval()` y `setTimeout()` [(1.6.8)](https://es.javascript.info/settimeout-setinterval)
 - Fetch API [(MDN)](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)
-- Local Storage [3.4.2](https://es.javascript.info/localstorage)
+- Local Storage [(3.4.2)](https://es.javascript.info/localstorage)
 
 ## DOM (Document Object Model) API (Application Programming Interface)
 
