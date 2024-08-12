@@ -15,6 +15,8 @@
 - Planificación: `setInterval()` y `setTimeout()` [(1.6.8)](https://es.javascript.info/settimeout-setinterval)
 - Fetch API [(MDN)](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)
 - Local Storage [(3.4.2)](https://es.javascript.info/localstorage)
+- Objeto Date [(1.5.11)](https://es.javascript.info/date)
+- Metodos JSON [(1.5.12)](https://es.javascript.info/json)
 
 ## DOM (Document Object Model) API (Application Programming Interface)
 
